@@ -1,3 +1,5 @@
+//Java program to implement the concept of abstract class.
+
 package Java;
 import java.util.Scanner; 
 abstract class Shape 
