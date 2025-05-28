@@ -1,3 +1,6 @@
+//Java program that creates custom exception and handle various exception handling methods.
+
+
 package Java;
 import java.util.Scanner; 
 class InvalidAmountException extends Exception 
