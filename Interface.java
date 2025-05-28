@@ -1,3 +1,5 @@
+//Java program to implement the concept of Interface and Polymorphism.
+
 package Java;
 abstract class Animal  
 { 
