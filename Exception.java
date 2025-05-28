@@ -1,3 +1,5 @@
+//Java program that shows the usage of try, catch, throws, and finally.
+
 package Exception;
 import java.util.*; 
 class Exception  
