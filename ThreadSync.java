@@ -1,3 +1,5 @@
+//Java program to implement thread synchronization.
+
 package Java;
 import java.util.Scanner; 
 class MultiplicationTable 
