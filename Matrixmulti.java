@@ -1,3 +1,5 @@
+//Java program to multiply two matrices.
+
 package Java;
 import java.util.Scanner; 
 public class Matrixmulti 
