@@ -1,3 +1,5 @@
+//Java program that implements file exception handling.
+
 package Java;
 import java.util.Scanner; 
 import java.io.File; 
