@@ -1,3 +1,5 @@
+//Java program to find the frequency of a given character in a string.
+
 package Java;
 import java.util.Scanner;
 public class Frequency 
