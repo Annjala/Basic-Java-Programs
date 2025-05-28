@@ -1,3 +1,5 @@
+//Graphics Programming: GUI traffic light using swing.
+
 package Java;
 import javax.swing.*; 
 import java.awt.*; 
