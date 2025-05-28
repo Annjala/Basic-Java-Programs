@@ -1,3 +1,5 @@
+//Java program to use String Tokenizer.
+
 package Java;
 import java.util.*; 
 public class Stringtoken 
