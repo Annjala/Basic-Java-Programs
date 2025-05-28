@@ -1,3 +1,5 @@
+//Java program to implement the concept of Inheritance.
+
 package Java;
 import java.util.Scanner;
 public class Inheritance 
