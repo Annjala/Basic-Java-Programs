@@ -1,3 +1,5 @@
+//Graphics Programming: GUI calculator using swing.
+
 package Java;
 import java.awt.event.*; 
 import java.awt.*; 
