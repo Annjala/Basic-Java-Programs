@@ -1,3 +1,5 @@
+//Java program to implement the concept of multi-threading.
+
 package Java;
 import java.util.Random; 
 class EvenThread extends Thread 
