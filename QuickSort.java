@@ -1,3 +1,5 @@
+//Java program to implement QuickSort algorithm for sorting.
+
 package Java;
 import java.util.*;
 public class QuickSort 
